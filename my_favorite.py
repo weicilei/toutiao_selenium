@@ -1,6 +1,6 @@
 # -*- coding:utf-8 -*-
 # !/usr/bin/python2.7
-# FileName: my_favorite
+# FileName: toutiao_favorites
 # DateTime: 2019年02月01日11时36分45秒
 
 import time
